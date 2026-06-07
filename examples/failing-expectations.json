@@ -1,0 +1,22 @@
+{
+  "required_columns": ["customer_id", "created_at", "amount", "status"],
+  "columns": {
+    "customer_id": {
+      "type": "number",
+      "max_missing_rate": 0
+    },
+    "created_at": {
+      "type": "date",
+      "max_missing_rate": 0
+    },
+    "amount": {
+      "type": "number",
+      "max_missing_rate": 0.05,
+      "max_outlier_count": 0
+    },
+    "status": {
+      "type": "text",
+      "max_missing_rate": 0.01
+    }
+  }
+}

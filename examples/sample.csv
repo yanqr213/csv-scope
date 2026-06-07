@@ -1,0 +1,9 @@
+id,name,age,signup_date,score,active,city
+1,Alice,29,2025-01-03,88.5,true,Shanghai
+2,Bob,34,2025-01-08,91.2,false,Beijing
+3,Chen,,2025-02-14,79.0,true,Shenzhen
+4,Dana,41,2025-02-20,95.1,true,Shanghai
+5,Eli,27,2025-03-05,300.0,false,Guangzhou
+6,Fang,31,2025-03-12,,true,Beijing
+7,Gao,29,2025-04-01,87.3,true,
+8,Hana,36,2025-04-17,90.4,false,Shanghai
